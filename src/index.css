@@ -1,0 +1,11 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+html{
+  font-family: 'Roboto', sans-serif;
+  font-size: 1rem;
+  background: #111213;
+  color: #fdfdfd;
+}
